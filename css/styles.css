@@ -3,39 +3,34 @@ h1{
 }
 a{
   color:#2196F3;
-  font-size:25px;
+  font-size:20px;
 }
 p{
-  font-size:25px;
+  font-size:20px;
 }
 ul li{
- font-size:25px;
+ font-size:20px;
 }
 body{
   font-family: Arial;
   margin: 0;
 }
 .content{
-  padding:30px;
+  padding:20px;
 }
 .footer{
   padding:40px;
   text-align:center;
   background-color:#BDBDBD;
 }
-.link{
-  color:#2196F3;
-  font-size:35;
-  font-weight:bold;
-}
 .header{
-    padding:40px;
+    padding:30px;
     background: linear-gradient(45deg,#F17C58, #E94584, #24AADB , #27DBB1,#FFDC18, #FF3706);
     background-size: 600% 100%;
     animation: gradient 16s linear infinite;
     animation-direction: alternate;
     color:#FFFFFF;
-    font-size:30px;
+    font-size:25px;
     text-align:center;
 }
 @keyframes gradient {
@@ -46,6 +41,6 @@ body{
   background-color:#2196F3;
   text-align:center;
   color:#FFFFFF;
-  border-radius: 25px;
-  padding:10px;
+  border-radius:20px;
+  padding:8px;
 }
