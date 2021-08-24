@@ -30,7 +30,7 @@ body{
     animation: gradient 16s linear infinite;
     animation-direction: alternate;
     color:#FFFFFF;
-    font-size:25px;
+    font-size:400px;
     text-align:center;
 }
 @keyframes gradient {
